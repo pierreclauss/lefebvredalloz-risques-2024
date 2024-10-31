@@ -1,7 +1,7 @@
 Atelier Risque de Marché
 ================
 Pierre Clauss
-Octobre 2024
+Novembre 2024
 
 L’objectif de cet atelier est de déterminer 3 indicateurs de risque de
 marché sur des indices actions, fourni dans le fichier Excel, avec un

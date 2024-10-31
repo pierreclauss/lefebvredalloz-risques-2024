@@ -1,7 +1,7 @@
 Atelier Risque de Crédit
 ================
 Pierre Clauss
-Octobre 2024
+Novembre 2024
 
 L’objectif de cet atelier est de déterminer une CreditVaR à 1 an pour un
 portefeuille constitué de 2 créances sur entreprises. Nous avons besoin
